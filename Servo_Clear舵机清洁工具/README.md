@@ -42,5 +42,4 @@
 #成品图
 <p align="center"><img align="center" src="/Servo_Clear舵机清洁工具/images/demo1.png" alt="效果图"></a></p>
 <p align="center"><img align="center" src="/Servo_Clear舵机清洁工具/images/rundemo.gif" alt="运行效果"></a></p>
-<p align="center"><img align="center" src="/Servo_Clear舵机清洁工具/images/install_photo.jpg" alt="完成效果"></a></p>
 
