@@ -1,19 +1,20 @@
 #准备元件<br>
 >1.微雪树莓派RP2040-Zero<br>
->2.MG996R或20KG 180度RC舵机<br>
+>2.MG996R或20KG 180度舵机<br>
 >3.轻触开关12x12x5<br>
 >4.M3*20或以上薄头内六角螺丝<br>
 >5.30AWG左右软电线 红黑黄绿蓝等<br>
 >6.xh2.54 3P公头或插座<br>
 >7.xh2.54 2P连接头<br>
 >8.usb3.0一母二公双头辅助供电线
+>9.25T-6mm全长58mm金属舵机臂
 --------
 #RP2040 klipper固件制作<br>
 >1.SSH进入上位机 cd klipper/ <br>
 >2.输入 make clean<br>
 >3.输入 make menuconfig<br>
->4.选择并调整菜单内容
->><br>Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  ---><br>
+>4.选择并调整菜单内容<br>
+>>Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  ---><br>
 >>Processor model (rp2040)  ---><br>
 >>Flash chip (W25Q080 with CLKDIV 2)  ---><br>
 >>Bootloader offset (No bootloader)  ---><br>
