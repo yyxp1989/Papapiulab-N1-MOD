@@ -11,7 +11,7 @@
 - 10.A1 mini喷嘴硅胶擦嘴耗材刷[TB](https://item.taobao.com/item.htm?id=821254137525&pisk=g3t8_0bfsjcommtRnLu0-CZyVHDcJqvy3QJ_x6fuRIdv9dekrwfhRMdw6wZnzgbdvI1Dq_vlV9_BtCTlNUf3vHd2wuqhVBmdOd8qL_XkqJBBlQEHrLfkkJIymUqhZbSpdCjKsfmijLJP8MGis0a6m_SPp6Z7AWqbG9IdFEY7rF9PYMGLnkgiXLRPOPMUP96jH9X3O7OCdsafg945OB15lS6OQMsBOa_bGOX3OW15AtMAU9X5dT1Ccs61B9aWOMMvhsWCATOCAvQSysH5FkLaKJLpARpYAktAeZgDNsiwFnWRR1pW_lZ_8TQR1L1xsjwYjZ9FJHyUv_9W7BW6N7GGzpTvMTIKmzs6HeOO33igwt8khdfXBJreUgL9XgT-grSkwnsXVFeQAKIRawKck7hA13JXbi_mfApX0QvyDp2IAtAGGL-5vcMN2g15Dt-ngu1pletlzMPSsaJBkIBRfglXjh3Ut5fOKzMxHyzFPt7NnB6fBE_CRtCieTUU8w2VH1DxHyzFPtWAsYFL8y733&spm=tbpc.boughtlist.suborder_itemtitle.1.2c5c2e8d0U5KdO&skuId=5699229235956)
 - 11.热熔螺母M3 5个 + M3*8螺丝
 - 12.M4*14内六角+4040型材T型或弹片螺母
---------
+
 # RP2040 klipper固件制作
 - 1.SSH进入上位机 cd klipper/ <br>
 - 2.输入 make clean<br>
