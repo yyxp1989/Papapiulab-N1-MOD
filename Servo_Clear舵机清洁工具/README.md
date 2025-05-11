@@ -10,8 +10,8 @@
 --------
 #RP2040 klipper固件制作<br>
 >1.SSH进入上位机 cd klipper/ <br>
->2.make clean<br>
->3.make menuconfig<br>
+>2.输入 make clean<br>
+>3.输入 make menuconfig<br>
 >4.选择并调整菜单内容
 >><br>Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  ---><br>
 >>Processor model (rp2040)  ---><br>
@@ -19,7 +19,7 @@
 >>Bootloader offset (No bootloader)  ---><br>
 >>Communication Interface (USBSERIAL)  ---><br>
 >5. esc - 退出保存 - Y<br>
->6.make<br>
+>6.输入make 开始制作固件<br>
 >7.将生成的uf2固件下载至本地 /klipper/out/klipper.uf2<br>
 >8.本地电脑usb连接rp2040 上电后按下boot和rest，弹出移动设备文件夹，将klipper.uf2固件复制到文件夹中会自动刷新固件。<br>
 --------
