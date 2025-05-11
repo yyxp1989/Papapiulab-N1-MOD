@@ -1,7 +1,30 @@
-准备元件</br>
-1.微雪 树莓派RP2040-Zero</br>
-2.MG996R或20KG 180度RC舵机</br>
-3.轻触开关12x12x5</br>
-4.M3*20或以上薄头内六角螺丝</br>
-5.30AWG左右软电线 红黑黄绿蓝等</br>
-6.xh2.54 3P公头或插座</br>
+#准备元件<br>
+>1.微雪树莓派RP2040-Zero<br>
+>2.MG996R或20KG 180度RC舵机<br>
+>3.轻触开关12x12x5<br>
+>4.M3*20或以上薄头内六角螺丝<br>
+>5.30AWG左右软电线 红黑黄绿蓝等<br>
+>6.xh2.54 3P公头或插座<br>
+>7.xh2.54 2P连接头<br>
+>8.usb3.0一母二公双头辅助供电线
+--------
+#RP2040 klipper固件制作<br>
+>1.SSH进入上位机 cd klipper/ <br>
+>2.make clean<br>
+>3.make menuconfig<br>
+>4.选择并调整菜单内容
+><br>Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  ---><br>
+>Processor model (rp2040)  ---><br>
+>Flash chip (W25Q080 with CLKDIV 2)  ---><br>
+>Bootloader offset (No bootloader)  ---><br>
+>Communication Interface (USBSERIAL)  ---><br>
+>5. esc - 退出保存 - Y<br>
+>6.make<br>
+>7.将生成的uf2固件下载至本地 /klipper/out/klipper.uf2<br>
+>8.本地电脑usb连接rp2040 上电后按下boot和rest，弹出移动设备文件夹，将klipper.uf2固件复制到文件夹中会自动刷新固件。<br>
+--------
+#硬件连接<br>
+>1.根据rp2040_config.cfg文件中的舵机和按钮gpio进行焊接，按钮为下拉触发其中一引脚焊接至GND，另一脚焊接至对应GPIO<br>
+>2.按钮gpio初始化为上拉，按下后接通GND下拉触发。<br>
+>3.为确保舵机启动电流将usb3.0一母二公双头辅助供电线，供电头侧更换为xh2.54 2p,连接至octopus主板常开风扇5v，或上位机独立5v3a供电侧（树莓派5 usb供电充足情况下无需额外供电）<br>
+>4.rp2040 通过一母二公双头辅助供电线，usb数据头连接至上位机，供电头连接至额外5v电源<br>
