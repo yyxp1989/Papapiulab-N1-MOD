@@ -13,11 +13,11 @@
 >2.make clean<br>
 >3.make menuconfig<br>
 >4.选择并调整菜单内容
-><br>Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  ---><br>
->Processor model (rp2040)  ---><br>
->Flash chip (W25Q080 with CLKDIV 2)  ---><br>
->Bootloader offset (No bootloader)  ---><br>
->Communication Interface (USBSERIAL)  ---><br>
+>><br>Micro-controller Architecture (Raspberry Pi RP2040/RP235x)  ---><br>
+>>Processor model (rp2040)  ---><br>
+>>Flash chip (W25Q080 with CLKDIV 2)  ---><br>
+>>Bootloader offset (No bootloader)  ---><br>
+>>Communication Interface (USBSERIAL)  ---><br>
 >5. esc - 退出保存 - Y<br>
 >6.make<br>
 >7.将生成的uf2固件下载至本地 /klipper/out/klipper.uf2<br>
