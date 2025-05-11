@@ -1,13 +1,13 @@
 #准备元件
-- 1.微雪树莓派RP2040-Zero<br>
-- 2.MG996R或20KG 180度舵机<br>
-- 3.轻触开关12x12x5<br>
+- 1.微雪树莓派RP2040-Zero [TB](https://item.taobao.com/item.htm?abbucket=14&detail_redpacket_pop=true&id=658812037267&ltk2=1746973910949ww7dq3eq8ykl5qvqrayn&ns=1&priceTId=undefined&query=%E5%BE%AE%E9%9B%AARP2040&skuId=4924681654479&spm=a21n57.1.hoverItem.2&utparam=%7B%22aplus_abtest%22%3A%22923ab57aafb205a234d31cbd9be73ddb%22%7D&xxc=taobaoSearch)
+- 2.MG996R或20KG 180度舵机[TB](https://item.taobao.com/item.htm?id=583846405061&pisk=gUeQ_Ym93eYBu0DJVXjZcOhDplMSNGWVe3i8mupe2vHKNLEUl0Jra6mWFVZAx25ltzN_yPcEJ4lrF0aqSkJPxkS5FuExJYPE80UaPPAU88uz7TZ0lXJU28-3srrvLJ5nULMnEYQVutW4YkDoeZiap8KnB0oXJTuK9OHn4EZpYnB4xk0kAUI46t-7fikvvQ38yAhtxmkJe0hRffn-AYpKwpd9WV0teDdK9hht4mO-v2UJBhn-vLd-yYpTXmiSeDU-eGZtS0M-yvKHC0dIVks3jGsQnLzTvV9JeJBoCqGpaLJz4DhQ7k3__5ysAXgx_qqRIJUa2JynsZTxElPbP7UlgCDQ2WHK0kXBCxEL_8iaUgRSJy2_XJc60Kk79yN-i56DiXhSR5eK13p8jA3iM7aCRB0LTPGmXfK5nczqWk2L1gYTvruIpchNHiZtw5yniJ79dxF0YvP8rsRiduFKCgyH3qt6WQtsiLisuGs6ZQmroUEUsqLheXniAZS1fFGo9cmsuGs6ZQcKjDZNfGTsZ&spm=tbpc.boughtlist.suborder_itemtitle.1.6ace2e8dFFEIg1)
+- 3.轻触开关12x12x5 [TB](https://detail.tmall.com/item.htm?id=14982998994&pisk=gaK8_d_fsjck8rKRnLu0-CZatEDcJqvy3QJ_x6fuRIdv9dekrwfhRMdw6wZnzgbdvI1Dq_vlV9_BtCTlNUf3vHd2wuqhVBmdOd8qL_XkqJBBlQEHrLfkkJIymUqhZbSpdCjKsfmijLJP8MGiscDH_UjPp665RWXflOIdFEY7rF9PYMGLnkgiXLRPOrtTP96jH9X3O7OCPiZfEs6QPMOCGZ61I7sBOB_XhOXUN6_COo9fg9EQFk_Icm6Pe8ZBOMMAcsWCATOCAvESysH5FkLaK-ezvR97AktAeZgDUswFcnWRS1pW_R2g8TQR1L1xsjwYjZ9FJHyUv_9W7BW6N7GGzpTvMTIKmzs6HeOO33igwt8khdfXBJreUgL9XgT-grSkwnsXVFeQAKIRawKck7hA13JXbi_mfApX0QvyDp2IAtAGGL-5vcMN2g15Dt-ngu1pletlzMPSsaJBkIBRfglXjh3Ut5fOKzMxHyzFPt7NnB6fBE_CRtCieTUU8w2VH1DxHyzFPtWAsYFL8y733&spm=tbpc.boughtlist.suborder_itemtitle.1.2c5c2e8d8sx34x&skuId=4106534807010)
 - 4.M3*20~25薄头内六角螺丝<br>
 - 5.AWG30左右软电线 红黑黄绿蓝等<br>
 - 6.xh2.54 3P公头或插座<br>
 - 7.xh2.54 2P连接头<br>
-- 8.usb3.0一母二公双头辅助供电线
-- 9.25T-6mm全长58mm金属舵机臂
+- 8.usb3.0一母二公双头辅助供电线[TB](https://item.taobao.com/item.htm?id=876203533245&pisk=gqAL9IX1mcmHfRRdSekgEnN2e13M2AYe7H8bZgj3FhK92EUHKTjlF_K2DTNoL6XRwhsMtMYhOa6Wqn9hApjuwQKwvWVlO3cRVEJZzMbHtzQWCHFkKejHBzCespVlxD5JPnf-mmcmie8FU_immm6w7kfFygwQduq1CaCRRdvQKKTFa_i8S7MmMe-FVRaUAa_sWabuVJt5dlN1yG_7Nat5fO_fok1WV3611wb0Nw6CNfT1bwZQFT15f5_5zaN5R3TsWaQlNgt5dVLsphkdX2_QwKzuWBiagsN7NCQdCAYCfoXp1wQNDet4n-2PJ9IXRGnmfPFcCUWJazPRAe924ZtQAmXePdKOJ_hgdsT9FnQwOjqd7pY6oGTYz78F9KdAOpnaQ6xp11OBHzNWW6IFeCXTvcIXTFOV1OcjkFOwxeR9rzG5Snj68B1-Gq5dOM1O7QmaOgp6FBXFakicLU99XwCf4EODMYrumiQudV3TU8WC7t7MVN_vCT65Wi0dJ8yPEP7OmV3TU8WC7NImJuezUT4N.&spm=tbpc.boughtlist.suborder_itemtitle.1.2c5c2e8dwu3GiB)
+- 9.25T-6mm全长58mm金属舵机臂 [TB](https://item.taobao.com/item.htm?id=535025013284&spm=tbpc.boughtlist.suborder_itemtitle.1.6ace2e8dFFEIg1&sku_properties=31309%3A29238436268)
 --------
 #RP2040 klipper固件制作
 - 1.SSH进入上位机 cd klipper/ <br>
