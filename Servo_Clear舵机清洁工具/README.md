@@ -26,7 +26,7 @@
 - 6.输入make 开始制作固件<br>
 - 7.将生成的uf2固件下载至本地 /klipper/out/klipper.uf2<br>
 - 8.本地电脑usb连接rp2040 上电后按下boot和rest，弹出移动设备文件夹，将klipper.uf2固件复制到文件夹中会自动刷新固件。<br>
---------
+
 # 硬件连接
 - 根据rp2040_setting.cfg文件中的舵机和按钮gpio进行焊接，按钮为下拉触发，其中一引脚焊接至GND，另一脚焊接至对应GPIO<br>
     - 模型文件开源可根据实际需求改进优化
@@ -34,11 +34,11 @@
 - 为确保舵机启动电流将usb3.0一母二公双头辅助供电线，供电头侧更换为xh2.54 2p,连接至主板常开风扇5v或上位机独立5v3a供电
   - 上位机USB电流输出大于0.4a无需额外供电（如树莓派5）
 - rp2040 通过一母二公双头辅助供电线，usb数据头连接至上位机，供电头连接至额外5v电源<br>
---------
+
 # RP2040 MCU连接
 - 在SSH中输入 ls /dev/serial/by-id/*
 - 可见串口设备地址： /dev/serial/by-id/usb-Klipper_rp2040_********-if00 ，并修改rp2040_config.cfg中rp2040 mcu地址
---------
+
 # 成品图
 <p align="center"><img align="center" src="/Servo_Clear舵机清洁工具/images/demo1.png" alt="效果图"></a></p>
 <p align="center"><img align="center" src="/Servo_Clear舵机清洁工具/images/rundemo.gif" alt="运行效果"></a></p>
