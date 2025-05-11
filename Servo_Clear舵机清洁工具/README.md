@@ -9,7 +9,8 @@
 - 8.usb3.0一母二公双头辅助供电线[TB](https://item.taobao.com/item.htm?id=876203533245&pisk=gqAL9IX1mcmHfRRdSekgEnN2e13M2AYe7H8bZgj3FhK92EUHKTjlF_K2DTNoL6XRwhsMtMYhOa6Wqn9hApjuwQKwvWVlO3cRVEJZzMbHtzQWCHFkKejHBzCespVlxD5JPnf-mmcmie8FU_immm6w7kfFygwQduq1CaCRRdvQKKTFa_i8S7MmMe-FVRaUAa_sWabuVJt5dlN1yG_7Nat5fO_fok1WV3611wb0Nw6CNfT1bwZQFT15f5_5zaN5R3TsWaQlNgt5dVLsphkdX2_QwKzuWBiagsN7NCQdCAYCfoXp1wQNDet4n-2PJ9IXRGnmfPFcCUWJazPRAe924ZtQAmXePdKOJ_hgdsT9FnQwOjqd7pY6oGTYz78F9KdAOpnaQ6xp11OBHzNWW6IFeCXTvcIXTFOV1OcjkFOwxeR9rzG5Snj68B1-Gq5dOM1O7QmaOgp6FBXFakicLU99XwCf4EODMYrumiQudV3TU8WC7t7MVN_vCT65Wi0dJ8yPEP7OmV3TU8WC7NImJuezUT4N.&spm=tbpc.boughtlist.suborder_itemtitle.1.2c5c2e8dwu3GiB)
 - 9.25T-6mm全长58mm金属舵机臂 [TB](https://item.taobao.com/item.htm?id=535025013284&spm=tbpc.boughtlist.suborder_itemtitle.1.6ace2e8dFFEIg1&sku_properties=31309%3A29238436268)
 - 10.A1 mini喷嘴硅胶擦嘴耗材刷[TB](https://item.taobao.com/item.htm?id=821254137525&pisk=g3t8_0bfsjcommtRnLu0-CZyVHDcJqvy3QJ_x6fuRIdv9dekrwfhRMdw6wZnzgbdvI1Dq_vlV9_BtCTlNUf3vHd2wuqhVBmdOd8qL_XkqJBBlQEHrLfkkJIymUqhZbSpdCjKsfmijLJP8MGis0a6m_SPp6Z7AWqbG9IdFEY7rF9PYMGLnkgiXLRPOPMUP96jH9X3O7OCdsafg945OB15lS6OQMsBOa_bGOX3OW15AtMAU9X5dT1Ccs61B9aWOMMvhsWCATOCAvQSysH5FkLaKJLpARpYAktAeZgDNsiwFnWRR1pW_lZ_8TQR1L1xsjwYjZ9FJHyUv_9W7BW6N7GGzpTvMTIKmzs6HeOO33igwt8khdfXBJreUgL9XgT-grSkwnsXVFeQAKIRawKck7hA13JXbi_mfApX0QvyDp2IAtAGGL-5vcMN2g15Dt-ngu1pletlzMPSsaJBkIBRfglXjh3Ut5fOKzMxHyzFPt7NnB6fBE_CRtCieTUU8w2VH1DxHyzFPtWAsYFL8y733&spm=tbpc.boughtlist.suborder_itemtitle.1.2c5c2e8d0U5KdO&skuId=5699229235956)
-- 11.热熔螺母M3 + M3*8螺丝
+- 11.热熔螺母M3 4个 + M3*8螺丝
+- 12.M4*14内六角+4040型材T型或弹片螺母
 --------
 #RP2040 klipper固件制作
 - 1.SSH进入上位机 cd klipper/ <br>
@@ -40,5 +41,6 @@
 --------
 #成品图
 <p align="center"><img align="center" src="/Servo_Clear舵机清洁工具/images/demo1.png" alt="效果图"></a></p>
+<p align="center"><img align="center" src="/Servo_Clear舵机清洁工具/images/rundemo.gif" alt="运行效果"></a></p>
 <p align="center"><img align="center" src="/Servo_Clear舵机清洁工具/images/install_photo.jpg" alt="完成效果"></a></p>
 
