@@ -33,8 +33,10 @@
   - 上位机USB电流输出大于0.4a无需额外供电（如树莓派5）
 - rp2040 通过一母二公双头辅助供电线，usb数据头连接至上位机，供电头连接至额外5v电源<br>
 --------
-#成图
-<p align="center"><img align="center" src="/Servo_Clear舵机清洁工具/images/install_photo.jpg" alt="完成效果"></a></p>
 #RP2040 MCU连接
 - 在SSH中输入 ls /dev/serial/by-id/*
 - 可见串口设备地址： /dev/serial/by-id/usb-Klipper_rp2040_********-if00 ，并修改rp2040_config.cfg中rp2040 mcu地址
+--------
+#成图
+<p align="center"><img align="center" src="/Servo_Clear舵机清洁工具/images/install_photo.jpg" alt="完成效果"></a></p>
+
