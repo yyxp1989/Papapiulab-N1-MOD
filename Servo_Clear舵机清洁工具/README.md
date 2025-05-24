@@ -40,6 +40,7 @@
 - 可见串口设备地址： /dev/serial/by-id/usb-Klipper_rp2040_********-if00 ，并修改rp2040_setting.cfg中rp2040 mcu地址
 
 # 成品图
-<p align="center"><img align="center" src="/Servo_Clear舵机清洁工具/images/demo1.png" alt="效果图"></a></p>
 <p align="center"><img align="center" src="/Servo_Clear舵机清洁工具/images/rundemo.gif" alt="运行效果"></a></p>
+<p align="center"><img align="center" src="/Servo_Clear舵机清洁工具/images/demo1.png" alt="效果图"></a></p>
+
 
